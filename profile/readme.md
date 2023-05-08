@@ -11,11 +11,12 @@ Backwards Development is a Freelance coding group that provides code for any occ
 If you would like to get in touch be sure to visit [BackwardsDevelopment.ca](https://www.BackwardsDevelopment.ca/contact).
 Otherwise feel free to join get in touch through Discord @ Backwards#0149 or my Instagram @ backwards_user.
 
-## Tools and Languages
+## Languages, Frameworks and Tools
 
 - Javascript
 - Node JS
-- ElectronJS
+- Electron JS
+- Express JS
 - HTML
 - Typescript
 - CSS
