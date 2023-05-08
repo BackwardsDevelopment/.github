@@ -13,17 +13,17 @@ Otherwise feel free to join get in touch through Discord @ Backwards#0149 or my 
 
 ## Tools and Languages
 
-    * Javascript
-    * Node JS
-    * ElectronJS
-    * HTML
-    * Typescript
-    * CSS
-    * Lua
-    * Python
-    * Java
-    * Git
-    * MySQL
+- Javascript
+- Node JS
+- ElectronJS
+- HTML
+- Typescript
+- CSS
+- Lua
+- Python
+- Java
+- Git
+- MySQL
 
 If you require me learn a new language for your project, don't be afraid to ask; at Backwards Development we're all open to learning new languages, tools and frameworks and we will try to learn in no longer than a weeks time.  
 <sub>Results vary on difficulty of Language, Tool and/or Framework</sub>
