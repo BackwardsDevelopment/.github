@@ -12,47 +12,18 @@ If you would like to get in touch be sure to visit [BackwardsDevelopment.ca](htt
 Otherwise feel free to join get in touch through Discord @ Backwards#0149 or my Instagram @ backwards_user.
 
 ## Tools and Languages
-<table width="100">
-<tr>
-    <td align="center" width="190">
-        <img src="./assets/images/javascript.svg" alt="JS" width="60">
-    </td>
-    <td align="center" width="190">
-        <img src="./assets/images/node-js.svg" alt="NJS" width="60">
-    </td>
-    <td align="center" width="190">
-        <img src="./assets/images/electron.svg" alt="electron" width="60">
-    </td>
-    <td align="center" width="190">
-        <img src="./assets/images/html.svg" alt="HTML" width="60">
-    </td> 
-</tr>
-<tr>
-    <td align="center" width="190">
-        <img src="./assets/images/typescript.svg" alt="TS" width="60">
-    </td>
-    <td align="center" width="190">
-        <img src="./assets/images/css.svg" alt="CSS" width="60">
-    </td>
-    <td align="center" width="190">
-        <img src="./assets/images/lua.svg" alt="lua" width="60">
-    </td>
-    <td align="center" width="190">
-        <img src="./assets/images/python.svg" alt="PY" width="60">
-    </td>
-</tr>
-<tr>
-    <td align="center" width="190">
-        <img src="./assets/images/java.svg" alt="Java" width="60">
-    </td>
-    <td align="center" width="190">
-        <img src="./assets/images/git.svg" alt="git" width="60">
-    </td>
-    <td align="center" width="190">
-        <img src="./assets/images/mysql.svg" alt="mysql" width="60">
-    </td>
-    <td align="center" width="190">
-        <img src="" alt="" width="60">
-    </td>
-</tr>
-</table>  
+
+    * Javascript
+    * Node JS
+    * ElectronJS
+    * HTML
+    * Typescript
+    * CSS
+    * Lua
+    * Python
+    * Java
+    * Git
+    * MySQL
+
+If you require me learn a new language for your project, don't be afraid to ask; at Backwards Development we're all open to learning new languages, tools and frameworks and we will try to learn in no longer than a weeks time.  
+<sub>Results vary on difficulty of Language, Tool and/or Framework</sub>
